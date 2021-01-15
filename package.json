@@ -1,0 +1,27 @@
+{
+  "name": "keycloak-js",
+  "version": "6.0.0-icarros",
+  "description": "Keycloak Adapter",
+  "main": "dist/keycloak.js",
+  "typings": "dist/keycloak.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iCarros/boxes.git"
+  },
+  "publishConfig": {
+    "registry": "http://nexus.icarros.com.br/repository/icarros.npm.private/"
+  },
+  "author": "Keycloak",
+  "license": "Apache-2.0",
+  "homepage": "https://www.keycloak.org",
+  "keywords": [
+    "keycloak",
+    "sso",
+    "oauth",
+    "oauth2",
+    "authentication"
+  ]
+}
